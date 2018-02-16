@@ -1,5 +1,5 @@
 # Notes
-Keep text notes and scripts for configuration
+Keep text notes and scripts in one place as some kind of handbook
 
 ### Aliases
 ```
