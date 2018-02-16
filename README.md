@@ -6,8 +6,6 @@ Keep text notes and scripts in one place as some kind of handbook
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#PATH="/Library/Frameworks/Python.framework/Versions/3.5/bin:${PATH}"
-#export PATH
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/
 export M2_HOME=/usr/local/apache-maven-3.3.3
 export PATH=$PATH:$M2_HOME/bin
